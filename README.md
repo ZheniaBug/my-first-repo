@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Простий калькулятор
 
 Навчальний проєкт для вивчення Git та Python.
@@ -26,3 +27,7 @@ python calculator.py
 
 Білик КН31
 
+=======
+# my-first-repo
+My first repository for learning Git
+>>>>>>> d52d40a5c7d2a7d087cae1e3b113da6c0850fa53
